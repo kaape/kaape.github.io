@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "The personal website of Kornelius A. Prell"
+tags: [startups, entrepreneur, blog, ditemis]
 image:
   feature: art/feature/stack-of-terminals.jpg
 ---

@@ -2,7 +2,7 @@
 
 title:            kaape - personal website
 locale:           en_US
-url:              http://korneliusprell.com
+url:              http://korneliusprell.com #http://localhost:4000 
 
 
 # Jekyll configuration
@@ -31,6 +31,8 @@ owner:
   bio: "A pragmatist who brings ideas to life in digital form... like a modern Frankenstein"
   email: mail@korneliusprell.com
   disqus-shortname: 
+  companyURL: http://ditemis.com
+  companyName: ditemis
   twitter: ditemis
   facebook: #username
   google:
@@ -41,8 +43,9 @@ owner:
     ad-slot: 
   bing-verify: 
   github: kaape
-  stackoverflow: http://stackoverflow.com/users/2108674/kaape
+  stackoverflow: 2108674/kaape
   linkedin: #username
+  xing: Kornelius_Prell
   instagram: #username
   lastfm: #username
   tumblr: #username

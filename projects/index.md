@@ -17,6 +17,8 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+This is a curated list of my mentionable side projects from the past and also ongoing ones. It's a nice chronic of the past 10 years with my progression from game programming as a starting point to web programming and a more specialized industry theme. Most of the projects from my professional career aren't listed for obvious reasons.
+
 ## Runway
 
 Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.

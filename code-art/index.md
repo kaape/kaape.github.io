@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Code Art
-modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Artistic ramblings of a coder"
 image:
   feature: art/feature/thought-statements.jpg
 ---
@@ -24,7 +22,7 @@ As a balance to my daily life as a software engineer I've recently started to dr
 
 <figure>
   <a href="../images/art/component-diagram.jpg"><img src="../images/art/component-diagram.jpg"></a>
-  <figcaption>Component Diagram</figcaption>
+  <figcaption>When designing solutions one often tries to define layers of abstraction and isolate reusable components. In a tetris-like manner these components are moved around and connected with interfaces to build a bigger picture.</figcaption>
 </figure>
 
 ---
@@ -33,7 +31,7 @@ As a balance to my daily life as a software engineer I've recently started to dr
 
 <figure>
   <a href="../images/art/code-columns.jpg"><img src="../images/art/code-columns.jpg"></a>
-  <figcaption>Code Columns</figcaption>
+  <figcaption>During frontend work I'm currently using a three column layout. This helps to see connected sections in HTML, CSS and JavaScript.</figcaption>
 </figure>
 
 ---
@@ -42,7 +40,7 @@ As a balance to my daily life as a software engineer I've recently started to dr
 
 <figure>
   <a href="../images/art/thought-statements.jpg"><img src="../images/art/thought-statements.jpg"></a>
-  <figcaption>Thought Statements</figcaption>
+  <figcaption>A lot of unwritten statements, that float around in your head, are needed to solve a problem. Only a few of theses statements are worthwhile to be written done and compiled.</figcaption>
 </figure>
 
 ---
@@ -51,7 +49,7 @@ As a balance to my daily life as a software engineer I've recently started to dr
 
 <figure>
   <a href="../images/art/stack-of-terminals.jpg"><img src="../images/art/stack-of-terminals.jpg"></a>
-  <figcaption>Stack of Terminals</figcaption>
+  <figcaption>Beginning with the main entry point in your code you build a stack of terminals to drill down to the one statement that you're searching for. With each level of depth the picture becomes clearer and the statements become fewer.</figcaption>
 </figure>
 
 ---
@@ -60,5 +58,5 @@ As a balance to my daily life as a software engineer I've recently started to dr
 
 <figure>
   <a href="../images/art/statements-in-brackets.jpg"><img src="../images/art/statements-in-brackets.jpg"></a>
-  <figcaption>Statements in Brackets</figcaption>
+  <figcaption>Between brackets you'll find statements. You'll write a lot of brackets and a lot of statements in your life. You'll create a new world with them.</figcaption>
 </figure>

@@ -1,23 +1,20 @@
 ---
 layout: page
-title: About this site
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: false
+title: About myself
 image:
   feature: art/feature/statements-in-brackets.jpg
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hi, I'm Kornelius and I'd like to welcome you to my personal site. I am in my late twenties, living together with my wife in Stuttgart and working as a software engineer at my own company <a href="../projects/#ditemis-2014">ditemis</a>.
 
-## Minimal Mistakes is all about:
+![Kornelius Prell speaking at Elevator Pitch Baden Württemberg]({{ site.url }}/images/KorneliusPrell.jpg)
+{: .image-pull-right}
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+<br/>
+This site is mainly used as an outlet to document <a href="../posts">my experiences with founding and running a business</a>. You'll also find a <a href="../projects">list of the projects I've done</a> and some of the <a href="../code-art">things I'll do in my spare time</a>.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<br/>
+If you have any comments regarding this site or would like to get in contact, please send me an e-mail. I'll do my best to help you.
+<br/>
+<br/>
+<a href="mailto:mail@korneliusprell.com" class="btn">Send me an e-mail</a>

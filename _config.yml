@@ -2,7 +2,7 @@
 
 title:            kaape - personal website
 locale:           en_US
-url:              http://korneliusprell.com #http://localhost:4000 
+url:              http://localhost:4000 #http://korneliusprell.com
 
 
 # Jekyll configuration

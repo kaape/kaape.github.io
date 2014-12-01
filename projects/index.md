@@ -23,8 +23,12 @@ This is a curated list of my mentionable side projects from the past and also on
 
 I am the founder of and developer at <a href="http://www.ditemis.com" target="_blank">www.ditemis.com</a>. It is my first serious business venture and was founded in May 2014.
 
-<br/>
-We accompany the public administration on its way to technological and digital change. We provide solutions for any topic around electronical file management. We are mainly working with Java in the backend and JavaScript in the frontend.
+<figure>
+  <img src="../images/projects/ditemis.png">
+  <figcaption>ditemis Logo</figcaption>
+</figure>
+
+We accompany the public administration on its way to technological and digital change. We provide solutions for any topic around electronical file management. We are mainly working with Java in the backend and JavaScript in the frontend to implement web-based solutions.
 
 The two products Runway and Papierflieger are currently in our development focus.
 
@@ -35,22 +39,56 @@ TODO
 ### Papierflieger, 2013
 
 TODO
+I've worked with and seen various solutions for electronical file management...
 
 ---
 
 ## Indie Games for PC, 2013
 
-TODO
+I'm a big fan of the [Humble Bundle](https://www.humblebundle.com/) as a customer and likewise as an entrepreneur. The business model is simple and it works really well. With "[Indie Games for PC](http://igfpc.com/)" (IGFPC) I've tried to use this model for a smaller niche: games from the Xbox Live Indie Games that have been ported to PC. 
+
+As I already had two finished games (Warbirds At Work & Airrise) in the XBLIG marketplace, 
+that could easily be ported to the PC this was an idea to add another distribution channel. If I had this problem, perhaps other developers on the XBLIG experienced the same problem and would benefit from an ecommerce solution like that.
+
+It was a great experience to develop an ecommerce solution from scratch with a somewhat "Pay what you want" model. Although in the end the financial feasibilty wasn't good enough, I've learned a lot. The biggest practical problem was handling the microtransactions and the large percentage of payment provider fees.
+
+<figure>
+  <img src="../images/projects/igfpc1.png">
+  <figcaption>IGFPC Landing Page</figcaption>
+</figure>
+
+<figure>
+  <img src="../images/projects/igfpc2.png">
+  <figcaption>IGFPC Games Overview</figcaption>
+</figure>
 
 ---
 
 ## Netzkämpfer, 2012
 
-TODO
+The organisation with the german name "[Netzkämpfer](http://netzkaempfer.com/)" (english: net warriors) was used for promoting the browsergame "Social War". It was my first noteworthy web presence and a first step towards founding a small business.
+
+<figure>
+  <img src="../images/projects/netzkaempfer.png">
+  <figcaption>Netzkämpfer Logo</figcaption>
+</figure>
+
 
 ### Social War, 2011
 
-TODO
+Social War was a game concept that paved my path from game to web programming. Inspired by the huge growth of the online-gaming market some colleagues and I developed the concept for this browsergame. We participated in the "Browsergames Forum Starter Trophy 2011" and placed third.
+
+We started the development of a prototype with PHP, but quickly lost motivation. You can read more about Social War on [Netzkämpfer](http://netzkaempfer.com/).
+
+<figure>
+  <img src="../images/projects/socialwar_alpha.jpg">
+  <figcaption>Social War - Alpha 27.03.12</figcaption>
+</figure>
+
+<figure>
+  <img src="../images/projects/socialwar_mashup.jpg">
+  <figcaption>Social War - Mockup Mashup</figcaption>
+</figure>
 
 ---
 

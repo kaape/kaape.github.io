@@ -34,12 +34,29 @@ The two products Runway and Papierflieger are currently in our development focus
 
 ### Runway, 2014
 
-TODO
+Runway is motivated by my constant pain as a developer of batch processes. Our customers typically have hundreds of specialized applications that need to interchange data without a standardized interface. In our typical solution architecture batch processes are used to let these applications exchange data by e.g. identifying, validating and converting. Although batch processes are handy for asynchronous, long-running, resource-intense tasks and loosely coupling applications as well, there are quite some disadvantages from a development point of view.
+
+Runway helps system integrators, IT operations and developers with easy batch processing and monitoring so that you stay on top of things. It uses the [JSR 352](https://jcp.org/en/jsr/detail?id=352), the Java Batch API, as a foundation. There are various extensions and helpers that should ease the batch development and monitoring in a productive environment.
+
+You can read more about Runway on its dedicated website [batch-runway](http://www.batch-runway.com/).
+
+<figure>
+  <img src="../images/projects/runway.png">
+  <figcaption>Runway Global Configuration</figcaption>
+</figure>
 
 ### Papierflieger, 2013
 
-TODO
-I've worked with and seen various solutions for electronical file management...
+At my last employment I've worked as a technical consultant in Enterprise Content Management for customers in the public sector. In that role I've worked with and seen various solutions for electronical file management. Most of these products and their development roadmap are directly driven by individual customer projects. This entails that a lot of these "standard" solutions are extremly complex, monolithic, hard to integrate and hard to extend with custom code. Good solutions for mobility use cases are also hard to find.
+
+Before 2012 the german government provided complex guidelines with an extensive requirement catalogue, that eletronical file management products needed to implemnt. The mentioned products adressed these extensive requirements and became too complex to be used on a small scale. In 2012 these government guidelines were revised with a version that promoted simple, manageable products - various big failed projects made them rethink the status quo. That's were we saw an opportunity to break into this market and build a product to help the government with its target to replace paper-based solutions with electronical ones for each federal ministry by 2020. That's when the project "Papierflieger" was born.
+
+Papierflieger is an intuitive, lean and easy extensible product for electronical file management. It uses a content repository ([Modeshape](http://modeshape.jboss.org/)) in the data layer so that any real world scenario in the context of file management can easily be described. You can read more about it here [ditemis Papierflieger](http://www.ditemis.com/papierflieger)
+
+<figure>
+  <img src="../images/projects/papierflieger.png">
+  <figcaption>Early Papierfliege User Interface Design</figcaption>
+</figure>
 
 ---
 

@@ -17,6 +17,15 @@ image:
 
 As a balance to my daily life as a software engineer I've recently started to draw abstract pictures of the thought process and feelings that I've experienced during programming. During my last years in high school I've had a habit of sketching portraits and nude studies, that I'll try to readopt with this "Code Art".
 
+## Fuzzy Connections, 06.12.14
+
+<figure>
+  <a href="../images/art/fuzzy-connections.jpg"><img src="../images/art/fuzzy-connections.jpg"></a>
+  <figcaption>Sometimes you see the connections between modules in a fuzzy way. It is not clear what and how it works together.</figcaption>
+</figure>
+
+---
+
 ## Tunnel to Cursor, 30.11.14
 
 <figure>

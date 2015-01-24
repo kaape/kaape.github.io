@@ -62,7 +62,7 @@ Papierflieger is an intuitive, lean and easy extensible product for electronical
 
 ## Indie Games for PC, 2013
 
-I'm a big fan of the [Humble Bundle](https://www.humblebundle.com/) as a customer and likewise as an entrepreneur. The business model is simple and it works really well. With "[Indie Games for PC](http://igfpc.com/)" (IGFPC) I've tried to use this model for a smaller niche: games from the Xbox Live Indie Games that have been ported to PC. 
+I'm a big fan of the [Humble Bundle](https://www.humblebundle.com/) as a customer and likewise as an entrepreneur. The business model is simple and it works really well. With "[Indie Games for PC](http://igfpc.herokuapp.com/)" (IGFPC) I've tried to use this model for a smaller niche: games from the Xbox Live Indie Games that have been ported to PC. 
 
 As I already had two finished games (Warbirds At Work & Airrise) in the XBLIG marketplace, 
 that could easily be ported to the PC this was an idea to add another distribution channel. If I had this problem, perhaps other developers on the XBLIG experienced the same problem and would benefit from an ecommerce solution like that.

@@ -17,7 +17,16 @@ image:
 
 As a balance to my daily life as a software engineer I've recently started to draw abstract pictures of the thought process and feelings that I've experienced during programming. During my last years in high school I've had a habit of sketching portraits and nude studies, that I'll try to readopt with this "Code Art".
 
-## Spaghetti Code, 29.12.14
+## Module Network, 14.03.15
+
+<figure>
+  <a href="../images/art/module-network.jpg"><img src="../images/art/module-network.jpg"></a>
+  <figcaption>Connections between modules form a network. They tend to get fuzzy over time in software.</figcaption>
+</figure>
+
+---
+
+## Spaghetti Code, 31.12.14
 
 <figure>
   <a href="../images/art/spaghetti-code.jpg"><img src="../images/art/spaghetti-code.jpg"></a>

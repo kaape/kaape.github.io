@@ -26,3 +26,12 @@ sitemap: false
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
+
+.article-wrap p {
+  text-align: justify
+}
+
+.addthis_sharing_toolbox {
+  text-align: center;
+  margin-bottom: 20px
+}

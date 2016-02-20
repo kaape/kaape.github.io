@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web2Apps tries to participate at Elevator Pitch BW 2016 in Böblingen"
-excerpt: "We'd like to take the next step with Web2Apps by pitching the idea at the Elevator Pitch BW 2016 in Böblingen"
+excerpt: "We'd like to take the next step with Web2Apps by pitching the idea at the Elevator Pitch BW 2016 in Böblingen."
 tags: [entrepreneurship, elevator pitch, web2apps, mvp, lean startup]
 comments: true
 image:

@@ -5,7 +5,7 @@ excerpt: "We successfully participated at the Elevator Pitch BW 2016 in Böbling
 tags: [entrepreneurship, elevator pitch, mvp, lean startup]
 comments: true
 image:
-  feature: posts/app-creator-elevatorpitch-bw-price.jpg
+  feature: posts/appcreator-elevatorpitch-bw-price.jpg
 ---
 *Update on Mai 1st 2016: The original project team has disbanded. Some former team members asked for anonymity in my posts. I've changed the original project name to "AppCreator", removed some links and personal information.*
 <hr/>

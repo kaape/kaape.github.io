@@ -5,17 +5,19 @@ excerpt: "Once again I've participated at the Startup Weekend Stuttgart and will
 tags: [entrepreneurship, startup weekend, swst, mvp, lean startup]
 comments: true
 image:
-  feature: posts/web2apps-feature.jpg
+  feature: posts/appcreator-feature.jpg
 ---
+*Update on Mai 1st 2016: The original project team has disbanded. Some former team members asked for anonymity in my posts. I've changed the original project name to "AppCreator", removed some links and personal information.*
+<hr/>
 
 In 2015 I once again joined forces with fellow wantrepreneurs at the [Startup Weekend Stuttgart](http://www.up.co/communities/germany/stuttgart/) and once again I'd like to share my experience from that event with you. If you have no clue what kind of event a Startup Weekend is, I'd suggest you read up on it in [my blog post from last year, in which I've reflected my experience at Startup Weekend Stuttgart 2014](http://korneliusprell.com/startup-weekend-stuttgart-2014/).
 
 <figure>
-  <img src="../images/posts/web2apps-team.jpg" />
-  <figcaption>The team "Web2Apps" posing for the media</figcaption>
+  <img src="../images/posts/appcreator-team.jpg" />
+  <figcaption>The team "AppCreator" posing for the media</figcaption>
 </figure>
 
-During 27th to 29th of November 2015 the [Startup Weekend Stuttgart 2015](http://www.up.co/communities/germany/stuttgart/) took place at the [Hochschule der Medien](https://www.hdm-stuttgart.de/). In this post I'll describe the good and bad parts about the event from my point of view. At the end of the article you'll find a short description of the project and prototype "Web2Apps", that I've helped to build. 
+During 27th to 29th of November 2015 the [Startup Weekend Stuttgart 2015](http://www.up.co/communities/germany/stuttgart/) took place at the [Hochschule der Medien](https://www.hdm-stuttgart.de/). In this post I'll describe the good and bad parts about the event from my point of view. At the end of the article you'll find a short description of the project and prototype "AppCreator", that I've helped to build. 
 
 To get you in the right mood, here's a [link to a synopsis of the organisators](http://startup-stuttgart.de/das-war-startup-weekend-stuttgart-2015/) and a nice video that summarizes the event:
 
@@ -31,7 +33,7 @@ With my experience from last your, I adjusted my expectations for the event. Wit
 * Execution is king. You're constantly reminded of that fact during the event. The organisators and mentors help you gain hands-on experience in idea and market validation. In alignment with the [Lean Startup methodology](http://theleanstartup.com/) the overall target of the weekend is to build your "Minimal Viable Product".
 * Our team with four members was small compared to other ones with nearly ten members. As you need to build a functioning team within a short period of time, a small team size is vital. This is certainly different if parts or all of your team have already worked together before.
 * We were able to build our private workspace by using some movable walls. In my experience it is essential to have a private area to work efficiently and not constantly be distracted by shenanigans of other participants.
-* Our team "Web2Apps" won the "special law price" :-)
+* Our team "AppCreator" won the "special law price" :-)
 
 ## The bad stuff
 Unfortunately some of the unpleasent experience from last year has been reconfirmed. This could be in part explained due to my wrong expectations, but nonetheless some of the experience still leaves me unsatisfied. Here are the things that I disliked:
@@ -42,22 +44,21 @@ Unfortunately some of the unpleasent experience from last year has been reconfir
 * Once again it was difficult to find people with the right skills during team building. Developers were in short supply and some teams were too large to work. 
 
 
-## Our project Web2Apps
-The idea for our project [Web2Apps](http://web2apps.co/) was pitched by Waldemar Koch and Christophe Conil, who are both working at their 
-startup [FavoTec](http://favotec.com/) and currently build an ERP software that's easy to customize. [Georg Schessler](https://www.xing.com/profile/Georg_Schessler) and myself joined to support them. The initial vision was to create an app generator with which users can easily build their personal mobile app by extracting content from various websites. You can imagine it like your personal dashboard of all the relevant web content you want to follow. As the name suggests we transform arbitrary web content into a suitable form for display in a mobile app. 
+## Our project AppCreator
+The idea for our project "AppCreator" was pitched by *anonymized former team members*. [Georg Schessler](https://www.xing.com/profile/Georg_Schessler) and myself joined to support them. The initial vision was to create an app generator with which users can easily build their personal mobile app by extracting content from various websites. You can imagine it like your personal dashboard of all the relevant web content you want to follow. As the name suggests we transform arbitrary web content into a suitable form for display in a mobile app. 
 
 After various iterations of brainstorming about possible use cases and business models, we pivoted the idea to help small business owners with an existing website. We wanted to support them by easily generating an app for mobile devices based on their existing website content. A smartphone app would enable them to interact with their customers and e.g increase customer loyalty by push notifications and location-based discounts. 
 
 As a weekend is quite short to build a working business model, we wanted to at least validate this customer segment and build a prototype that shows how our product works for a reference customer.
 
 <figure>
-  <img src="../images/posts/web2apps.jpg" />
-  <figcaption>The landing page draft for "Web2Apps" with an example app for the restaurant "Wirtshaus Drive" in Vaihingen</figcaption>
+  <img src="../images/posts/appcreator.jpg" />
+  <figcaption>The landing page draft for "AppCreator" with an example app for the restaurant "Wirtshaus Drive" in Vaihingen</figcaption>
 </figure>
 
 We developed a prototype with JavaScript, C++, Qt, QML, Python and Django. A user could select content from a website with the help of a simple DOM explorer and preview it in a Qt desktop client. Qt was used to easily generate cross-platform apps. The server that synchronizes the selected content, design and description of the generated app with the mobile phone was written in Python with Django as the web framework. With this toolset we were able to build a prototype that showed how the app might be used in the future and that the technology to realise the business model is viable.
 
-Next to the development, a big part of our work was to validate the idea with relevant customers. Therefore Waldemar interviewed more than 20 small business owners if their business would benefit from our solution and if they would buy it for our intended price. The results looked very promising, especially for customers in the food service industry as they tend to have simple websites and have the need to increase customer retention.
+Next to the development, a big part of our work was to validate the idea with relevant customers. Therefore we interviewed more than 20 small business owners if their business would benefit from our solution and if they would buy it for our intended price. The results looked very promising, especially for customers in the food service industry as they tend to have simple websites and have the need to increase customer retention.
 
 In the short timeframe of the weekend we managed to validate parts of the idea with a small sample size of customers, build a working prototype and prepare a presentation for the jury. Our hard work earned us the "special law price". As we all think that the idea has potential, we'll follow it up in 2016.
 

@@ -5,7 +5,7 @@ excerpt: "How freelacing worked for me to gain traction on the entrepreneurial p
 tags: [entrepreneurship, freelancer, software engineering, portfolio]
 comments: true
 image:
-  feature: art/feature/module-network.jpg
+  feature: art/module-network.jpg
 ---
 
 Do you think about working as a freelancer? As I pointed out in my article about [taking personal risks](../taking-risk), I previously worked as a technical consultant. Becoming a freelancer was an easy decision for me, because it is already an established work model in the domain of software engineering. Will it fit for you as well? Let's find out!

@@ -2,7 +2,7 @@
 layout: page
 title: Code Art
 image:
-  feature: art/feature/thought-statements.jpg
+  feature: art/thought-statements.jpg
 ---
 
 <section id="table-of-contents" class="toc">

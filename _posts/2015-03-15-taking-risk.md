@@ -5,7 +5,7 @@ excerpt: "Looking back at my first steps to become an entrepreneur by quitting m
 tags: [entrepreneurship, freelancer, software engineering, portfolio, lean startup]
 comments: true
 image:
-  feature: art/feature/spaghetti-code.jpg
+  feature: art/spaghetti-code.jpg
 ---
 
 Imagine a world where you can do whatever you want. You're not forced to drive to work every day, slave away in your tiny cubicle for ten hours and drive back home, only to get stuck in traffic for another hour. When you finally have some free time, you think about how you're going to stay mentally sane with such an outlook on your life for the next 30 to 40 years. There must be a way to get into your visionary world, where you only work if the topic matches your interest. Read on, to get an insight in my experiences trying to find the hidden path.

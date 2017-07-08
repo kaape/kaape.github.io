@@ -4,7 +4,7 @@ title: Projects
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Past and current projects"
 image:
-  feature: art/feature/code-columns.jpg
+  feature: art/code-columns.jpg
 ---
 
 <section id="table-of-contents" class="toc">
@@ -83,7 +83,7 @@ It was a great experience to develop an ecommerce solution from scratch with a s
 
 ## Netzkämpfer, 2012
 
-The organisation with the german name "[Netzkämpfer](http://netzkaempfer.com/)" (english: net warriors) was used for promoting the browsergame "Social War". It was my first noteworthy web presence and a first step towards founding a small business.
+The organisation with the german name "Netzkämpfer" (english: net warriors) was used for promoting the browsergame "Social War". It was my first noteworthy web presence and a first step towards founding a small business.
 
 <figure>
   <img src="../images/projects/netzkaempfer.png">

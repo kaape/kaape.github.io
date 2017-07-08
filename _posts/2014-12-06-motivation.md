@@ -5,7 +5,7 @@ excerpt: "Why I need to write this blog and what you can expect from it."
 tags: [entrepreneurship, startups, ditemis, motivation]
 comments: true
 image:
-  feature: art/feature/fuzzy-connections.jpg
+  feature: art/fuzzy-connections.jpg
 ---
 
 My last "personal" blog post has been on the [17th of October in 2012 on my game development blog](http://kaapedev.wordpress.com/2012/10/17/airrise-release/). It is about the release of my last game [Airrise for the XBox Live Indie Games](/projects/#xbox-live-indie-games-2010---2012). Since then a lot happened. I've finished my studies, worked for a while at a big IT company, finally quit and founded my first company [ditemis](http://www.ditmis.com) in May 2014 (at ditemis we develop individual software solution and provide technical consulting).

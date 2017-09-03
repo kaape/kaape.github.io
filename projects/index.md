@@ -111,7 +111,7 @@ We started the development of a prototype with PHP, but quickly lost motivation.
 
 ## Xbox Live Indie Games, 2010 - 2012
 
-After experimenting with [XNA](http://en.wikipedia.org/wiki/Microsoft_XNA) I focused on the Xbox 360 as the target platform for my games. I never really published anything until then, so the [Xbox Live Indie Games (XBLIG)](http://en.wikipedia.org/wiki/Xbox_Live_Indie_Games) were a great way to start. I've documented the development process on the separate blog [kaapedev.wordpress.com](http://kaapedev.wordpress.com) back then.
+After experimenting with [XNA](http://en.wikipedia.org/wiki/Microsoft_XNA) I focused on the Xbox 360 as the target platform for my games. I never really published anything until then, so the [Xbox Live Indie Games (XBLIG)](http://en.wikipedia.org/wiki/Xbox_Live_Indie_Games) were a great way to start. I've documented the development process on the separate blog kaapedev.wordpress.com back then; meanwhile migrated all posts into this blog.
 
 After four years since my first game release on the XBLIG I recently hit the small milestone of 1000$ in revenue (~1400 games sold). Although this isn't a big financial success, I learned a valuable lesson in working with digital products. There are currently no costs for me to maintain the product, but there are still a few sales each month.
 

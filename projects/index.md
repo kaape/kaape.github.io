@@ -95,7 +95,7 @@ The organisation with the german name "Netzkämpfer" (english: net warriors) was
 
 Social War was a game concept that paved my path from game to web programming. Inspired by the huge growth of the online-gaming market some colleagues and I developed the concept for this browsergame. We participated in the "Browsergames Forum Starter Trophy 2011" and placed third.
 
-We started the development of a prototype with PHP, but quickly lost motivation. You can read more about Social War on [Netzkämpfer](http://netzkaempfer.com/).
+We started the development of a prototype with PHP, but quickly lost motivation. You can read more about [Social War in the migration announcement](/netzkaempfer-migration).
 
 <figure>
   <img src="../images/projects/socialwar_alpha.jpg">

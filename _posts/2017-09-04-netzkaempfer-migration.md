@@ -8,7 +8,7 @@ image:
   feature: netzkaempfer/netzkaempfer_header.jpg
 ---
 
-Together with some colleagues we started the endeavor "netzkaempfer.com" to build a browsergame called "Socal War" in 2012 and 2013. The game never left pre-production, but we managed to gain some insights at professional game development by participating at "Browser Games Forum 2011", visiting [Travian Games](https://www.travian.com) in Munich and pitching our game idea at "Gründerzeit Baden-Württemberg 2012".
+Together with some colleagues we started the endeavor "netzkaempfer.com" to build a browsergame called "Socal War" in 2012 and 2013. The game never left pre-production, but we managed to gain some insights at professional game development by participating at "Browser Games Forum 2011" (now "Berlin Games Forum"), visiting [Travian Games](https://www.travian.com) in Munich and pitching our game idea at "Gründerzeit Baden-Württemberg 2012".
 
 # About
 This is the original "about" text for the blog:
